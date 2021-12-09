@@ -1,0 +1,48 @@
+
+int number=10;
+SYSO(number%2==0 ? "Even Number" : "Odd Number");
+
+if(number%2==0) {
+	System.out.println("Even Number");
+} else {
+	System.out.println("Odd Number");
+}
+S="India needs 45 in 34 balls";
+S1=s.replaceAll("[A-Za-z]","");
+
+int i=long.ParseInt("S1");
+
+sum=
+
+S1="sandip";
+
+for(int i=S1.length();i>=0;i--){
+System.out.print(S1.charAt(i));
+}
+
+o/p: 
+
+
+Employee 
+Salary, name
+
+select name from employess e1 where 3=(select count(distinct salary) from employee e2 where e2.salary>e1.salary)
+
+select name from employee where name like '--k%'
+
+//a[@href='/in/products/sales-cloud/overview/']//child::span
+
+//div[@class='sub-nav']/ul/li[2]/a/span
+
+//*[@class='haschildIcon']//preceding-sibling::span
+
+
+
+
+
+
+
+
+
+
+
